@@ -1,7 +1,6 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
 import Header from '../components/Header'
-// git test
 const Home: NextPage = () => {
   return (
     <div>
