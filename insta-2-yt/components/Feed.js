@@ -1,5 +1,6 @@
 import React from "react";
 import Stories from "./Stories";
+import Posts from './Posts';
 
 export default function () {
   return (
@@ -9,6 +10,7 @@ export default function () {
         <section>
           {/* Stories */}
           <Stories />
+          <Posts />
 
           {/* Posts */}
         </section>
