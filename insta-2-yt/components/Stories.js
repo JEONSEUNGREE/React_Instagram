@@ -25,6 +25,7 @@ export default function Stories() {
       {suggestions &&
         suggestions.map((profile) => (
           <Story
+            key={profile.id}
             id={profile.id}
             username={profile.username}
             img={profile.avatar}

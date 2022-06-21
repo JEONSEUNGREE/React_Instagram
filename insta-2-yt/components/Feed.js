@@ -19,6 +19,7 @@ export default function () {
           {/* Section */}
 
           {/* Mini profile */}
+          
 
           {/* Suggestions */}
         </section>
