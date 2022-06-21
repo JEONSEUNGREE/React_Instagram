@@ -3,14 +3,14 @@ import Post from "./Post";
 
 const DUMMY_DATA = [
   {
-    id: "123",
+    id: "1",
     username: "sssangha",
     userImg: "https://links.papareact.com/3ke",
     img: "https://links.papareact.com/3ke",
     caption: "SUBSCRIBE AND DESTROY THE LIKE BUTTON for the YT algorithism!",
   },
   {
-    id: "123",
+    id: "2",
     username: "sssangha",
     userImg: "https://links.papareact.com/3ke",
     img: "https://links.papareact.com/3ke",
